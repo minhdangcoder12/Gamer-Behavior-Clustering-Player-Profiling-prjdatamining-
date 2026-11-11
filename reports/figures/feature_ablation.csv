@@ -1,0 +1,5 @@
+feature_set,n_features,silhouette,davies_bouldin
+5 biến gốc,5,0.1436,1.8823
+PlayTimeHours thay giờ/tuần,3,0.2683,1.1776
+Đã chọn + InGamePurchases,4,0.2504,1.2527
+"Đã chọn (giờ/tuần, level, thành tựu)",3,0.2763,1.0586

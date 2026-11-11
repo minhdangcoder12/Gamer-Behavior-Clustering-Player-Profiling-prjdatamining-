@@ -1,0 +1,8 @@
+pandas==2.2.3  # newer builds blocked by Windows Smart App Control on dev machine
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+kagglehub
+jupyter

@@ -1,0 +1,4 @@
+method,silhouette,davies_bouldin,inertia,runs
+Agglomerative (5k sample),0.2117,1.2037,,1
+K-Means++ (n_init=10),0.2809,1.0588,53342.6968,10
+Hybrid Agglo→K-Means,0.2763,1.0586,53461.5733,1

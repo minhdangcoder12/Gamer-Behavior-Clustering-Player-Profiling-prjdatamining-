@@ -1,0 +1,5 @@
+Cluster,segment,players,weekly_hours,level,achievements,purchase_rate,high_engagement,age,share,silhouette
+0,Casual,12059,9.595,47.387,9.132,0.203,0.076,32.004,0.301,0.252
+1,Hardcore,7603,36.144,50.129,23.384,0.2,0.922,31.976,0.19,0.186
+2,Achievement Hunters,10101,10.232,23.498,34.777,0.195,0.105,31.953,0.252,0.337
+3,Veteran Grinders,10271,10.232,77.694,33.365,0.205,0.131,32.031,0.257,0.312
